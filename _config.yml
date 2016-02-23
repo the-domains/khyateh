@@ -1,0 +1,28 @@
+name: khyateh
+favicon: null
+layout_spectrum: 0.10190051072277129
+typography_spectrum: 0.10464028595015407
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.9235697565600276
+  lightness: 0.4004858788102865
+  saturation: 0.2683411599136889
+  rhythmicContrast: 0.5079409594181925
+purpose: []
