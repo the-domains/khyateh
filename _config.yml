@@ -1,6 +1,6 @@
 name: khyateh
 favicon: null
-layout_spectrum: 0.05758
+layout_spectrum: 1
 typography_spectrum: 0.49192
 title: Khyateh Blog
 cta:
@@ -22,8 +22,8 @@ color:
     - '#CD5334'
     - '#EDB88B'
     - '#FAD8D6'
-  brandStrength: 0.9235697565600276
+  brandStrength: 0.9375
   lightness: 0.4004858788102865
-  saturation: 0.2683411599136889
+  saturation: 0.25
   rhythmicContrast: 0.5079409594181925
 purpose: []
